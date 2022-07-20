@@ -1,0 +1,3 @@
+[submodule "data/photoz_catalogues"]
+	path = data/photoz_catalogues
+	url = https://github.com/COINtoolbox/photoz_catalogues.git
